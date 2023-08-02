@@ -8,7 +8,7 @@ import sample from "./images/sample.jpg";
 
 
 
-export default {
+export  {
     airpods,
     alexa,
     camera,
